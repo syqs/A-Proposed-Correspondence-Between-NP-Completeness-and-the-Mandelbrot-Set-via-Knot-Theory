@@ -93,3 +93,12 @@ This paper presents not a solution to P vs. NP, but a new lens through which to 
 [3] V. F. R. Jones, "A polynomial invariant for knots via von Neumann algebras", *Bulletin of the American Mathematical Society*, 12(1), 1985, pp. 103-111.
 
 [4] B. B. Mandelbrot, *The Fractal Geometry of Nature*, W. H. Freeman and Company, 1982.
+
+
+addendum
+The n=4 Solvable Case: Produced the unknot.
+The n=4 Unsolvable Case: Produced a non-trivial knot.
+The n=8 Solvable Case: Produced a perfectly oscillating braid that simplified to the unknot.
+The n=8 Unsolvable Case: Produced a complex braid that simplified to a non-trivial link.
+The n=27 Solvable Case: Produced a perfectly oscillating braid that simplified to the unknot.
+The n=27 Unsolvable Case: Produced a complex, chaotic braid that simplified to a non-trivial link.
